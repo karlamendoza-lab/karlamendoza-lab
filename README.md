@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Ingeniera en sistemas y computación teniendo 10 años de experiencias como docente en el area de  desarrollo de software, apasionada por la tecnología y la enseñanza. Disfruto transformar ideas en soluciones digitales creativas y funcionales, guiando a otros en su camino de aprendizaje con paciencia, dedicación y entusiasmo. Me motiva la innovación, el crecimiento constante y el impacto positivo que el conocimiento puede generar en las personas.
+Soy Ingeniera en sistemas y computación teniendo 10 años de experiencia como docente en el area de  desarrollo de software, apasionada por la tecnología y la enseñanza. Disfruto transformar ideas en soluciones digitales creativas y funcionales, guiando a otros en su camino de aprendizaje con paciencia, dedicación y entusiasmo. Me motiva la innovación, el crecimiento constante y el impacto positivo que el conocimiento puede generar en las personas.
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Karla Mendoza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karlaecheverria2022@gmail.com) 
